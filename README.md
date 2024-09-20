@@ -5,7 +5,7 @@ Bu, kullanıcıların belirli kategorilere göre yemekleri filtreleyip görünt�
 ## Ekran Görüntüsü
 **Web Sayfası:** https://ozgurdayanir.github.io/asiankitchen/
 
-![screenshot](/asiankitchen/screenshot/ss.png)
+![screenshot](./screenshot/ss.png)
 
 ## Özellikler
 
