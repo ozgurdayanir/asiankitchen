@@ -3,7 +3,9 @@
 Bu, kullanıcıların belirli kategorilere göre yemekleri filtreleyip görüntüleyebileceği basit bir web uygulamasıdır. Kategoriler "Hepsi", "Kore", "Japonya" ve "Çin" şeklindedir. Kullanıcı, bir kategori seçtiğinde yalnızca o kategoriye ait yemekler görüntülenir.
 
 ## Ekran Görüntüsü
-![screenshot](/screenshot/ss.png)
+**Web Sayfası:** https://ozgurdayanir.github.io/asiankitchen/
+
+![screenshot](/asiankitchen/screenshot/ss.png)
 
 ## Özellikler
 
@@ -70,6 +72,8 @@ This is a simple web application that filters and displays food items based on s
 - **Dynamic Category Filtering**: The app allows users to filter food items by categories: "All", "Korea", "Japan", and "China".
 - **Responsive Design**: The layout adapts to different screen sizes and displays food items in a clean and organized manner.
 - **Interactive UI**: Each category has a corresponding button. When a button is clicked, only the food items from the selected category are shown.
+
+**Web Sayfası:** https://ozgurdayanir.github.io/asiankitchen/
 
 ## Technologies Used
 
